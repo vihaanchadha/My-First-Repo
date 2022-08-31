@@ -31,6 +31,8 @@ public class chapter1Notes
         long a=9; 
         short b=5; 
         
+        int _num =9;
+        int _num&num1=9; 
         
         
         //These are objects!
